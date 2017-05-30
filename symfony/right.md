@@ -1,0 +1,3 @@
+## If no permission ...
+`sudo chmod 775 -R app/logs app/cache`  
+`sudo chown user:www-data -R app/cache app/logs`
