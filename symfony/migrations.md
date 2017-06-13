@@ -1,4 +1,4 @@
-## Générer un fichier de migration 
+## Generate a migration file 
 `php app/console doctrine:migrations:diff`
-## Charger fichier de migration 
+## Load migrations
 `php app/console doctrine:migrations:migrate`
